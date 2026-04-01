@@ -6,7 +6,7 @@ export function Footer() {
                 <a href="#" class="footer-logo-link">
                     <img src="/assets/logo.png" alt="Freshfect Logo" class="footer-logo-img">
                 </a>
-                <p>Driven by nature, our Indian brand delivers eco-friendly cleaning solutions — Zero Waste, 100% Natural, Affordable.</p>
+                <p>Driven by nature in <strong>Mumbai, India</strong>. Our brand delivers premium eco-friendly cleaning — Zero Waste, 100% Natural.</p>
                 <div class="social-links" style="margin-top:20px;">
                     <a href="#" title="Instagram" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
                     <a href="#" title="Facebook" aria-label="Facebook"><i class="fab fa-facebook"></i></a>
@@ -18,10 +18,9 @@ export function Footer() {
                 <h4>Quick Links</h4>
                 <ul>
                     <li><a href="#home">Home</a></li>
-                    <li><a href="#about">About Us</a></li>
-                    <li><a href="#products">Products</a></li>
+                    <li><a href="#about">About us</a></li>
+                    <li><a href="#products">Product</a></li>
                     <li><a href="#how-to-use">How to Use</a></li>
-                    <li><a href="#testimonials">Reviews</a></li>
                     <li><a href="#contact">Contact</a></li>
                 </ul>
             </div>
@@ -30,9 +29,9 @@ export function Footer() {
                 <h4>Our Catalog</h4>
                 <ul>
                     <li><a href="#products">Freshfect All Cleaner</a></li>
-                    <li><a href="#products">Value Bundles (Pack of 5)</a></li>
-                    <li><a href="#how-to-use">How it Works</a></li>
-                    <li><a href="#testimonials">Customer Reviews</a></li>
+                    <li><a href="#products">Pack of 5 (Bundle)</a></li>
+                    <li><a href="#how-to-use">Refill Guide</a></li>
+                    <li><a href="#contact">Wholesale Inquiries</a></li>
                 </ul>
             </div>
 

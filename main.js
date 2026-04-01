@@ -4,7 +4,6 @@ import { About } from './src/components/About.js';
 import { Products } from './src/components/Products.js';
 import { HowToUse, initHowToUse } from './src/components/HowToUse.js';
 
-import { Testimonials } from './src/components/Testimonials.js';
 import { Contact } from './src/components/Contact.js';
 
 import { Footer } from './src/components/Footer.js';
@@ -29,7 +28,6 @@ app.innerHTML = `
     ${About()}
     ${Products()}
     ${HowToUse()}
-    ${Testimonials()}
     ${Contact()}
 
   </main>
