@@ -14,7 +14,7 @@ export function Contact() {
                     <i class="fas fa-map-marker-alt"></i>
                     <div>
                         <strong>Location</strong>
-                        <p>Bangalore, Karnataka, India</p>
+                        <p>Mumbai, Maharashtra, India</p>
                     </div>
                 </div>
                 <div class="info-item">
