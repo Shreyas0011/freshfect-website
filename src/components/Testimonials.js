@@ -2,49 +2,49 @@ export function Testimonials() {
   const reviews = [
     {
       name: "Anjali R.",
-      product: "Trial Pack Combo",
+      product: "Starter Kit",
       rating: 5,
-      text: "The best thing you can buy for ₹549! It gives you everything you need and the product is very nice and very useful. Highly recommend to every household!",
+      text: "The best thing you can buy! It gives you everything you need to clean the whole house and the product is very nice. Highly recommend to every household!",
       avatar: "A",
       color: "var(--primary-green)"
     },
     {
       name: "Priya S.",
-      product: "Dish Wash — 10 Packets",
+      product: "Mega Pack (10 Sachets)",
       rating: 5,
-      text: "I am so impressed! It cuts through greasy oil stains and even tough burnt-on residues without endless scrubbing. The fresh lime scent is an absolute bonus — it smells clean and natural, not chemical. Safe to use around my kids and pet.",
+      text: "I am so impressed! It cuts through tough grime on counters and floors without endless scrubbing. The fresh scent is an absolute bonus — it smells clean and natural. Safe to use around my kids and pet.",
       avatar: "P",
       color: "var(--primary-blue)"
     },
     {
       name: "Rahul M.",
-      product: "Floor Cleaner",
+      product: "Everyday Pack (5 Sachets)",
       rating: 5,
-      text: "Good product. Does the job. Smells good and cleans very well. I'm happy with anything sustainable and eco-friendly that fits my budget too. So happy I found Freshfect ❤️",
+      text: "Good product. Does the job on all surfaces. Smells good and cleans very well. I'm happy with anything sustainable and eco-friendly that fits my budget too. So happy I found Freshfect ❤️",
       avatar: "R",
       color: "var(--accent-green)"
     },
     {
       name: "Meera K.",
-      product: "Fabric Wash",
+      product: "Trial Pack",
       rating: 5,
-      text: "The effort in making it non-toxic and the packaging using paper is highly appreciable. Cleans really well and the fragrance is mild which is good. Looking forward to purchasing more!",
+      text: "The effort in making it non-toxic and the packaging using paper is highly appreciable. Cleans glass and tiles really well and the fragrance is mild which is good. Looking forward to purchasing more!",
       avatar: "M",
       color: "#8B6F47"
     },
     {
       name: "Suresh D.",
-      product: "Dish Wash",
+      product: "Monthly Refill",
       rating: 5,
-      text: "Great product — washes utensils pretty well. Especially it maintains moisture of the hand and doesn't cause dryness. Good value for money!",
+      text: "Great universal cleaner — washes away sticky messes fast. Especially it maintains moisture of the hands if you spray it and doesn't cause dryness. Good value for money!",
       avatar: "S",
       color: "#6B4C8B"
     },
     {
       name: "Kavitha J.",
-      product: "Dish Wash",
+      product: "Everyday Pack",
       rating: 5,
-      text: "This dish wash is so good! My dishes have never been so sparkling clean. This 2-litre refill pack is fantastic value and lasts for ages. Superb quality!",
+      text: "This cleaner is so versatile! My kitchen and floors have never been so sparkling clean. The refill pack is fantastic value and lasts for ages. Superb quality!",
       avatar: "K",
       color: "#B8860B"
     }

@@ -27,14 +27,12 @@ export function Footer() {
             </div>
 
             <div class="footer-links">
-                <h4>Products</h4>
+                <h4>Our Catalog</h4>
                 <ul>
-                    <li><a href="#products">Floor Cleaner</a></li>
-                    <li><a href="#products">Dish Wash</a></li>
-                    <li><a href="#products">Fabric Wash</a></li>
-                    <li><a href="#products">Pack of 5</a></li>
-                    <li><a href="#products">Multi-Fragrance Pack</a></li>
-                    <li><a href="#products">Healthy Home Combo</a></li>
+                    <li><a href="#products">Freshfect All Cleaner</a></li>
+                    <li><a href="#products">Value Bundles (Pack of 5)</a></li>
+                    <li><a href="#how-to-use">How it Works</a></li>
+                    <li><a href="#testimonials">Customer Reviews</a></li>
                 </ul>
             </div>
 

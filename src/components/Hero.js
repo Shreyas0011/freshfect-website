@@ -24,7 +24,7 @@ export function Hero() {
             </div>
         </div>
         <div class="hero-image">
-            <img src="/assets/product_combo.png" alt="Freshfect Organic Cleaning Refills">
+            <img src="/assets/product_floor.png" alt="Freshfect Organic Cleaning Refills">
         </div>
     </section>
   `;

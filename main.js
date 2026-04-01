@@ -13,6 +13,16 @@ const app = document.querySelector('#app');
 
 // Assemble Page
 app.innerHTML = `
+  <div class="global-bg-elements">
+    <div class="ornament orn-1"><i class="fas fa-leaf"></i></div>
+    <div class="ornament orn-2">✦</div>
+    <div class="ornament orn-3"><i class="fas fa-seedling"></i></div>
+    <div class="ornament orn-4">✦</div>
+    <div class="ornament orn-5"><i class="fas fa-leaf"></i></div>
+    <div class="ornament orn-6"><i class="fas fa-spa"></i></div>
+    <div class="ornament orn-7">✦</div>
+    <div class="ornament orn-8"><i class="fas fa-wind"></i></div>
+  </div>
   ${Navbar()}
   <main>
     ${Hero()}
