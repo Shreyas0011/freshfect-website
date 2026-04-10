@@ -44,6 +44,27 @@ document.addEventListener('DOMContentLoaded', () => {
     initHowToUse();
 
 
+    // 1. Mobile Menu Toggle
+    const mobileToggle = document.querySelector('.mobile-toggle');
+    const navContainer = document.querySelector('.nav-container');
+    const navLinksList = document.querySelectorAll('.nav-links a');
+
+    if (mobileToggle && navContainer) {
+        mobileToggle.addEventListener('click', () => {
+            mobileToggle.classList.toggle('active');
+            navContainer.classList.toggle('active');
+            document.body.style.overflow = navContainer.classList.contains('active') ? 'hidden' : '';
+        });
+
+        navLinksList.forEach(link => {
+            link.addEventListener('click', () => {
+                mobileToggle.classList.remove('active');
+                navContainer.classList.remove('active');
+                document.body.style.overflow = '';
+            });
+        });
+    }
+
     window.addEventListener('scroll', () => {
         if (window.scrollY > 50) {
             navbar.classList.add('scrolled');
