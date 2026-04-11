@@ -10,7 +10,7 @@ export function Footer() {
                 <div class="social-links">
                     <a href="#" title="Instagram" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
                     <a href="#" title="Facebook" aria-label="Facebook"><i class="fab fa-facebook"></i></a>
-                    <a href="https://wa.me/911234567890" target="_blank" title="WhatsApp" aria-label="WhatsApp"><i class="fab fa-whatsapp"></i></a>
+                    <a href="https://wa.me/919699499995" target="_blank" title="WhatsApp" aria-label="WhatsApp"><i class="fab fa-whatsapp"></i></a>
                 </div>
             </div>
 

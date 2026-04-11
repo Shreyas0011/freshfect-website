@@ -40,7 +40,7 @@ export function Products() {
                     </div>
                 </div>
 
-                <a href="https://wa.me/911234567890?text=Hi%20Freshfect!%20I'd%20like%20to%20order%20the%20Freshfect%20All%20Cleaner." target="_blank" class="cta-btn-primary whatsapp-btn">
+                <a href="https://wa.me/919699499995?text=Hi%20Freshfect!%20I'd%20like%20to%20order%20the%20Freshfect%20All%20Cleaner." target="_blank" class="cta-btn-primary whatsapp-btn">
                     <i class="fab fa-whatsapp"></i> Order on WhatsApp
                 </a>
             </div>
@@ -60,7 +60,7 @@ export function Products() {
                 <div class="price">₹1,299.00 <span class="original-price">₹1,495.00</span></div>
                 <p class="card-desc">Stock up on high-performance cleaning. Five identical sachets of our signature All Cleaner formula — delivered right to your door in Mumbai.</p>
                 <div class="product-footer">
-                    <a href="https://wa.me/911234567890?text=Hi%20Freshfect!%20I'd%20like%20to%20order%20the%20Pack%20of%205%20Bundle." target="_blank" class="cta-btn-primary">
+                    <a href="https://wa.me/919699499995?text=Hi%20Freshfect!%20I'd%20like%20to%20order%20the%20Pack%20of%205%20Bundle." target="_blank" class="cta-btn-primary">
                         <i class="fab fa-whatsapp"></i> Buy Bundle
                     </a>
                 </div>

@@ -21,7 +21,7 @@ export function Contact() {
                     <i class="fas fa-phone"></i>
                     <div>
                         <strong>Phone / WhatsApp</strong>
-                        <a href="tel:+911234567890">+91 12345 67890</a>
+                        <a href="tel:+919699499995">+91 96994 99995</a> / <a href="tel:+919766659055">97666 59055</a>
                     </div>
                 </div>
                 <div class="info-item">
@@ -42,10 +42,10 @@ export function Contact() {
                 <div class="social-links">
                     <a href="#" title="Instagram" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
                     <a href="#" title="Facebook" aria-label="Facebook"><i class="fab fa-facebook"></i></a>
-                    <a href="https://wa.me/911234567890" target="_blank" title="WhatsApp" aria-label="WhatsApp"><i class="fab fa-whatsapp"></i></a>
+                    <a href="https://wa.me/919699499995" target="_blank" title="WhatsApp" aria-label="WhatsApp"><i class="fab fa-whatsapp"></i></a>
                 </div>
 
-                <a href="https://wa.me/911234567890?text=Hi%20Freshfect!%20I%20have%20a%20question%20about%20your%20products." target="_blank" class="whatsapp-order-btn">
+                <a href="https://wa.me/919699499995?text=Hi%20Freshfect!%20I%20have%20a%20question%20about%20your%20products." target="_blank" class="whatsapp-order-btn">
                     <i class="fab fa-whatsapp"></i> Chat & Order on WhatsApp
                 </a>
             </div>
