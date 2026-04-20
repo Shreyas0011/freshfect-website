@@ -6,6 +6,7 @@ import { HowToUse, initHowToUse } from './src/components/HowToUse.js';
 
 import { Contact } from './src/components/Contact.js';
 
+import { Reviews } from './src/components/Reviews.js';
 import { Footer } from './src/components/Footer.js';
 
 const app = document.querySelector('#app');
@@ -28,6 +29,7 @@ app.innerHTML = `
     ${About()}
     ${Products()}
     ${HowToUse()}
+    ${Reviews()}
     ${Contact()}
 
   </main>
